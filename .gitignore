@@ -2,3 +2,5 @@
 *Thumbs.db
 *~
 *.svn
+composer.lock
+/vendor
