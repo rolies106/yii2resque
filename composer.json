@@ -1,0 +1,25 @@
+{
+    "name": "rolies106/yii2-resque",
+    "description": "Resque components for Yii2, based on php-resque",
+    "keywords": ["slug", "resque", "yii2", "yii-resque"],
+    "homepage": "https://github.com/rolies106/yii2-resque",
+    "type": "yii2-extension",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rolies Deby",
+            "email": "rolies106@gmail.com"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/rolies106/yii2-resque/issues",
+        "wiki": "https://github.com/rolies106/yii2-resque/wiki",
+        "source": "https://github.com/rolies106/yii2-resque"
+    },
+    "require": {
+        "php": ">=5.4.0",
+        "ext-pcntl": "*",
+        "ext-redis": "*",
+        "chrisboulton/php-resque" : "1.2.x"
+    }
+}
