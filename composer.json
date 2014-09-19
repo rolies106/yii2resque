@@ -27,6 +27,6 @@
     },
     "bin": [
         "bin/resque",
-        "bin/resque-scheduler",
+        "bin/resque-scheduler"
     ]    
 }
